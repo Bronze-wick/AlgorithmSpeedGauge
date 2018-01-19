@@ -13,10 +13,7 @@ public class DriverProgramJpata000
    //main method.
    public static void main(String[] args)
    {  
-      int smallerNumber = 1000000;
-      long bigNumber = 10000000000000000000000000000000000000000000000000;
-      System.out.println(bigNumber);
-      // runRangeOfData(1000);
+      runRangeOfData(100);
       // runTestData();
       // O2ElapsedTime(100);
       //exampleOfSelectionSort(10);
